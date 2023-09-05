@@ -1,10 +1,11 @@
 # tours_travels
 
 Tours and Travels Website
+![img1](https://github.com/shahpranshu27/tours_travels/assets/97401387/d62e8e9e-2e73-4325-bc8c-e19a96136ca6)
 
-![Screenshot (5)](https://github.com/shahpranshu27/tours_travels/assets/97401387/c4bee33f-4aa3-463e-a006-be567112d664)
-![Screenshot (6)](https://github.com/shahpranshu27/tours_travels/assets/97401387/809f1539-4800-47b0-9eb5-dab27b5d71ae)
-![Screenshot (7)](https://github.com/shahpranshu27/tours_travels/assets/97401387/493d6217-f999-4c34-a6e0-07d62bbe8c1b)
+![img2](https://github.com/shahpranshu27/tours_travels/assets/97401387/d222a68e-e0ed-4687-9bac-64ae08c30467)
+
+![img3](https://github.com/shahpranshu27/tours_travels/assets/97401387/34b4ac7e-e2ce-4658-8286-a9854ad30979)
 
 Overview
 This repository contains a fully responsive website for a tours and travels agency. The website is built using pure HTML, CSS, and JavaScript, making it accessible and easy to understand for developers and designers.
