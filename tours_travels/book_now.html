@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title>bOOKING FORM</title>
+        <style>
+            body {
+            overflow-y: hidden;
+            background-color: black;
+          }
+            #booking
+            {
+                font-family: 'Imprima', sans-serif;
+                background-image: url(13eaaff.jpg);
+                background-size: cover;
+                background-position: center;
+                height: 100vh;
+                
+            }
+            .text
+            {
+                color:black;
+                font-weight:900;
+                font-size:1.5rem;
+                text-shadow:10cm;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="booking" class="section">
+
+        <section>
+            <form action="grp1.html">
+            <table align="center" style="height: 25rem;">
+                <h1 style="text-align: center; font-size: 5rem; text-decoration: underline;">BOOK NOW</h1>
+                <tr class="ro">
+                    <td class="text">NAME:</td>
+                    <td><input type="text" placeholder="enter name" maxlength="20" required></td>
+                </tr><br><br>
+                <tr class="ro">
+                    <td class="text">EMAIL:</td>
+                    <td><input type="email" placeholder="abc@gmail.com" required></td>
+                </tr>
+                <tr class="ro"> 
+                    <td class="text">DOB:</td>
+                    <td><input type="date" required></td>
+                </tr>
+                <tr class="ro">
+                    <td class="text">ADDRESS:</td>
+                    <td><textarea placeholder="Write your address..." rows="5" cols="70" maxlength="100" required></textarea></td>
+                </tr>
+                <tr class="ro">
+                    <td class="text">PHONE NUMBER:</td>
+                    <td><input type="tel" required ></td>
+                </tr>
+                <tr class="ro">
+                    <td class="text">GENDER:</td>
+                    <td class="text"><label>male<input type="radio" name="m"></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <label>female<input type="radio" name="m"></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </td>
+                </tr>
+                <tr class="ro">
+                    <td></td>
+                    <td><input type="submit">&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset"></td>
+                </tr>
+            </table>
+        </form>
+        </section>
+        </div>
+    </body>
+
+</html>

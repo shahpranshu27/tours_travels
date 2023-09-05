@@ -1,0 +1,117 @@
+footer {
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.cards {
+    height:70%;
+    width: 95%;
+    padding: 3%;
+    border-radius: 1rem;
+    background: white; 
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.cards:hover{
+    height:75%;
+    width:97%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+}
+
+.cards-img {
+    height: 70%;
+    width: 100%;
+    /* transition: .3s ease; */
+}
+
+.cards-img>img {
+    height:100%;
+    width:100%;
+    border-radius: 1rem;
+}
+
+.cards-info{
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+/*Text*/
+.text-title {
+    font-size: 1.5rem;
+}
+
+.text-body {
+    padding-bottom: 4%;
+    font-size: 0.9rem;
+    color:lightgray;
+}   
+.white {
+    text-decoration: none;
+    color: white;
+}
+.txt-none
+{
+    text-decoration:none;
+    color: black;
+}
+
+
+--> place
+
+.card {
+    height:90%;
+    width: 90%;
+    padding: 3%;
+    border-radius: 1rem;
+    background: white; 
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.card:hover{
+    border: 2px solid orangered;
+}
+
+.card-img {
+    height: 60%;
+    width: 100%;
+    /* transition: .3s ease; */
+}
+
+.card-img>img {
+    height:100%;
+    width:100%;
+    border-radius: 1rem;
+}
+
+.card-info{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+/*Text*/
+.text-title {
+    font-size: 1.5rem;
+}
+
+.text-body {
+    font-size: 0.9rem;
+    color:lightgray;
+}
+
+footer{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.img-rounded
+{
+border-radius:25px ;
+
+}
+.orange
+{
+text-decoration: none;
+color: orangered;
+}
+.white {
+    text-decoration: none;
+    color: white;
+}
