@@ -12,26 +12,39 @@ This repository contains a fully responsive website for a tours and travels agen
 
 Features : 
 -> Responsive design that adapts to various screen sizes, including mobile devices and desktops.
+
 -> Interactive and user-friendly navigation for exploring different travel destinations and services.
+
 -> Attractive visual design with well-organized content and images.
+
 -> Contact form for inquiries and booking requests.
+
 -> Custom JavaScript functionalities to enhance user experience.
+
 
 To set up this project locally, follow these steps:
 
 -> Clone the repository to your local machine:
 e.g. git clone https://github.com/shahpranshu27/tours_travels.git
+
 -> Open the project folder in your code editor.
+
 -> Open the 'grp1.html' file in your web browser to view the website.
+
 
 Usage : 
 -> Browse different travel destinations and services.
+
 -> Use the contact form to inquire or make booking requests.
+
 -> Explore the website on various devices to experience its responsiveness.
+
 
 Customization :
 -> Modify the content in the HTML files to update text, images, and links.
+
 -> Adjust the styles in the CSS files to match your preferred color scheme and design.
+
 -> Extend the JavaScript functionalities or add new features as necessary.
 
 Contributing : 
@@ -47,4 +60,4 @@ We welcome contributions from the community to enhance this project further. If 
 
 5. Open a pull request to the original repository, describing your changes and their purpose.
 
-We appreciate your contributions!
+I appreciate your contributions!
